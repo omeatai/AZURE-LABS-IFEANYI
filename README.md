@@ -5,6 +5,12 @@
 - [x] **Install dependencies**
 - [ ] **Write initial code**
 
+<input type="checkbox"> **Set up development environment**  
+<input type="checkbox" checked> **Install dependencies**  
+<input type="checkbox"> **Write initial code**  
+<input type="checkbox"> **Test the application**  
+<input type="checkbox"> **Deploy to production**  
+
 <details>
     <summary><strong>What is Document360?</strong></summary>
     <p>A well-structured product to create a world-class knowledge base for your customers and employees. Content producers get the power, whereas content consumers get the simplicity.</p>
