@@ -19,10 +19,12 @@
 
 <details>
   <summary>LAB 1 - Create an IAM User and Group in AWS</summary>
-- [ ] **Set up development environment**
-- [x] **Install dependencies**
-- [ ] **Write initial code**
-- [ ] **Test the application**
+    <ul>
+        <li>Knowledge base portal</li>
+        <li>Knowledge base site</li>
+        <li>Knowledge base widget</li>
+        <li>API documentation</li>
+    </ul>
 <details>
     <summary>1 - Open IAM Console </summary>
       - [ ] **Set up development environment**
