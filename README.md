@@ -3,10 +3,12 @@
 
 <details>
   <summary>LAB 1 - Create an IAM User and Group in AWS</summary>
-    1. **Open IAM Console**
+    <details>
+      <summary>LAB 1 - **Open IAM Console**</summary>
     - [ ]  **Go to the AWS Management Console.**
     - [ ]  **Enter "IAM" in the search bar and go to the IAM console.**
     - [ ]  **Notice the IAM service is global and doesn't require region selection.**
+    </details>  
 2. **Viewing Current Users**
     - [ ]  On the left-hand side, click on "Users" to view the current user list.
 3. **Create a New IAM User and Set Password**
