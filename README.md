@@ -1,8 +1,5 @@
 # AZURE-LABS-IFEANYI
-## BY Ifeanyi Omeata
-
-# AZURE-LABS-IFEANYI
-## BY Ifeanyi Omeata
+### BY Ifeanyi Omeata
 
 <details>
   <summary>LAB 1 - Create an IAM User and Group in AWS</summary>
