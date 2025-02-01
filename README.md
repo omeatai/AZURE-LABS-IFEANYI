@@ -1,6 +1,15 @@
 # AZURE-LABS-IFEANYI
 ### BY Ifeanyi Omeata
 
+- [ ] **Set up development environment**
+- [x] **Install dependencies**
+- [ ] **Write initial code**
+- [ ] **Test the application**
+- [ ] **Deploy to production**
+- [ ] **Go to the AWS Management Console.**
+- [ ] **Enter "IAM" in the search bar and go to the IAM console.**
+- [ ] **Notice the IAM service is global and doesn't require region selection.**
+      
 <details>
   <summary>LAB 1 - Create an IAM User and Group in AWS</summary>
   <details>
