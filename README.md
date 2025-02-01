@@ -1,14 +1,8 @@
 # AZURE-LABS-IFEANYI
-### BY Ifeanyi Omeata
-
-- [ ] **Set up development environment**
-- [x] **Install dependencies**
-- [ ] **Write initial code**
-
-## Task List
+### by Ifeanyi Omeata
 
 <details>
-  <summary>Click to expand task list</summary>
+  <summary> 1-Open Console</summary>
 
 - [ ] **Set up development environment**  
 - [x] **Install dependencies**  
